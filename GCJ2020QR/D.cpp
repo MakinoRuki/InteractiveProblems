@@ -1,3 +1,5 @@
+// 看对称的pair。如果是相等，则可以用来判定bit flip；不相等可以用来判定reverse。
+
 #include <iostream>
 #include <cstdio>
 #include <cstring>
